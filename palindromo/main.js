@@ -1,3 +1,4 @@
+alert("sposta il cursore del maouse e vedi cosa appare.")
 function inverti() {
 var parola =document.getElementById("check").value;
 var paroladue='';
