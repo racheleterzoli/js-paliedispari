@@ -1,0 +1,20 @@
+*{
+  text-align: center;
+}
+#titolo {
+  color:red;
+  font-size: 50px;
+}
+#check{
+  height: 50px;
+  font-size: 40px;
+  border: 1px solid red;
+}
+.bottone{
+  height: 50px;
+  font-size: 40px;
+  border: 1px solid red;
+}
+#valutazione{
+  font-size: 50px;
+}
